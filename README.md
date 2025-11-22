@@ -1,5 +1,5 @@
 
-                                                           Local Pro Connect
+                                          Local Pro Connect
 
 Local Pro Connect is a web-based platform designed to be the most trusted environment for connecting users with verified, highly-rated local service providers. The application focuses on hyper-local search capabilities, allowing users to find professionals (such as plumbers or tutors) based on precise location proximity and peer ratings.
 
